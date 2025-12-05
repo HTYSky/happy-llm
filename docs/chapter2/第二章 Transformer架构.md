@@ -167,7 +167,7 @@ $$
 > *   $w_{\text{banana}} = 8.33 / 29.38 \approx \mathbf{0.28}$
 > *   $w_{\text{chair}} = 4.10 / 29.38 \approx \mathbf{0.14}$
 >
-> **5. 第四步：加权求和 ($Attention(Q, K, V)$)**
+> **5. 第四步：加权求和 ( $Attention(Q, K, V)$ )**
 > 使用权重对 Value 进行加权求和，得到最终的注意力表示：
 > 
 > $$
